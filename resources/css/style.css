@@ -1,0 +1,35 @@
+/* global scope */
+* {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.download {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+
+/* header scope */
+header h1 {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+/* main scope */
+.travel h2 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+/* footer scope */
+footer p{
+    text-align: right;
+}
